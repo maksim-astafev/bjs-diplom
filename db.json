@@ -6,8 +6,8 @@
       "password": "demo",
       "id": 1,
       "balance": {
-        "RUB": 1000,
-        "USD": 20,
+        "RUB": 600,
+        "USD": 120,
         "EUR": 20,
         "NTC": 3000
       }
@@ -19,7 +19,7 @@
       "id": 2,
       "netocoins": 100,
       "balance": {
-        "RUB": 20,
+        "RUB": 220,
         "USD": 0,
         "EUR": 0,
         "NTC": 100
@@ -43,7 +43,7 @@
       "password": "demo",
       "id": 4,
       "balance": {
-        "RUB": 30000,
+        "RUB": 30100,
         "USD": 150,
         "EUR": 300,
         "NTC": 20000
@@ -60,12 +60,73 @@
         "EUR": 600,
         "NTC": 90000
       }
+    },
+    {
+      "created_at": "2021-06-17T11:32:24.885Z",
+      "login": "wqerty",
+      "password": "124132",
+      "id": 6,
+      "balance": {
+        "RUB": 100,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2021-06-17T11:56:33.425Z",
+      "login": "qewut",
+      "password": "12875",
+      "id": 7,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2021-06-17T12:01:46.642Z",
+      "login": "qwryetr",
+      "password": "31527",
+      "id": 8,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2021-06-17T14:46:36.821Z",
+      "login": "qwe",
+      "password": "123",
+      "id": 9,
+      "balance": {
+        "RUB": 7251.631617113851,
+        "USD": 300,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2021-06-17T17:09:01.052Z",
+      "login": "user1",
+      "password": "123",
+      "id": 10,
+      "balance": {
+        "RUB": 0,
+        "USD": 3372.945752587345,
+        "EUR": 0,
+        "NTC": 500
+      }
     }
   ],
   "favorites": {
     "1": {
       "2": "Ваня дурачок",
-      "3": "Пират Петр"
+      "3": "Пират Петр",
+      "6": "galina@demo.ru\t"
     },
     "2": {
       "1": "Чувак, который должен 20к неткойнов",
@@ -78,6 +139,9 @@
       "1": "Важный пацан",
       "3": "Дедуля",
       "4": "Галя"
+    },
+    "10": {
+      "1": "oleg@demo.ru"
     }
   }
 }
